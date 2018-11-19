@@ -1,0 +1,48 @@
+table: cai ban
+cat: con meo
+chair: cai ghe
+dog: con cho
+mouse: con chuot
+Abalone: bao ngu
+Aligator: ca sau nam my
+Anteater: thu an kien
+Armadillo: con ta tu
+Ass: con lừa
+Baboon: khỉ đầu chó
+Bat: con dơi
+Beaver: hải ly
+Beetle: bọ cánh cứng
+Blackbird: con sáo
+Boar: lợn rừng
+Buck: nai đực
+Bumble-bee: ong nghệ
+Bunny: con thỏ( tiếng lóng)
+Butter-fly: bươm bướm
+Camel: lạc đà
+Canary: chim vàng anh
+Carp: con cá chép
+Caterpillar: sâu bướm
+Centipede: con rết
+trout: cá hồi
+swordfish: cá kiếm
+eel: cá chình
+shark: cá mập
+stingray: cá đuối gai độc
+Flounder: cá bơn
+dolphin: cá heo
+cod: cá tuyết
+tuna: cá ngừ
+salmon: cá hồi
+trout: cá hồi
+mackerel: cá thu
+sardine: cá mòi
+goby: cá bống
+skate: cá đuối
+whale: cá voi
+cuttlefish: cá mực
+puffer: cá nóc
+snake-head: cá quả
+tench: cá mè
+goldfish: cá vàng
+
+
